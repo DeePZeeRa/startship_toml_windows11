@@ -1,8 +1,10 @@
 # Startship toml configuration file
 This is my startship toml configuration file for making the terminal better and fancy
 
-![Overall look](normal_look.png)
+### Normal look
+![Overall look](overall_look.png)
 
+### Github Repository look
 ![Github repo](github_repo.png)
 
 # Installation:
