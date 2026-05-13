@@ -157,7 +157,7 @@ This configuration works best with:
 - PowerShell 7+
 - Git Bash
 - WSL2
-- Python Environments
+- Python, Java, Nodejs, Go, Docker Environments
 
 ---
 
