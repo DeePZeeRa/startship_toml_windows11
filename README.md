@@ -1,9 +1,9 @@
 # Startship toml configuration file
 This is my startship toml configuration file for making the terminal better and fancy
 
-![Overall look](./assets/normal_look.png)
+![Overall look](normal_look.png)
 
-![Github repo](./assets/github_repo.png)
+![Github repo](github_repo.png)
 
 # Installation:
 1. Follow and Install startship using installation guide: `https://starship.rs/installing/`.
