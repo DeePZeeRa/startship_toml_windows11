@@ -7,10 +7,10 @@ A modern, minimal, and highly customized terminal setup powered by
 
 Designed for developers who want a **clean**, **aesthetic**, and **information-rich** command line experience.
 
-<img src="https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt-Starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" />
-<img src="https://img.shields.io/badge/Font-JetBrainsMono%20Nerd%20Font-000000?style=for-the-badge" />
+[![Platform](https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![Shell](https://img.shields.io/badge/Shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Prompt](https://img.shields.io/badge/Prompt-Starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)](https://starship.rs/)
+[![Font](https://img.shields.io/badge/Font-JetBrainsMono%20Nerd%20Font-000000?style=for-the-badge)](https://www.nerdfonts.com/font-downloads)
 
 </div>
 
